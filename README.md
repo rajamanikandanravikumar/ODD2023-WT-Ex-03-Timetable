@@ -13,5 +13,55 @@ Add your timetable
 Execute the program
 
 # CODE
+```````
+<img src="C:\Users\admin\Pictures\Screenshots\Screenshot (48).png" alt=""><br>
+<style>
+    table,th,td{
+        border:1px solid blueviolet;
+        background-color:gray;
+        
+    }
+</style>
+<body>
+    <h1><center>TIMETABLE</center></h1>
+    <table style="width:100%;">
+    <tr>
+        <th>Reference no</th>
+        <th>23013754</th>
+        <th>RAJAMANIKANDAN</th>
+        
+    </tr>
+<tr>
+    <td>Days</td>
+    <td>subject code</td>
+    <td>subject</td>
+    <td>session</td>
+</tr>
+<tr>
+    <td>MONDAY</td>
+    <td>19cy205</td>
+    <td>principles chemistry in engineering</td>
+    <td>8.00-10.00</td>
+    
+</tr>
+<tr>
+    <td>tuesday</td>
+    <td>19MA201</td>
+    <td>CALCULAS AND MATRIX ALGEBRA</td>
+    <td>10.00-12.00</td>
 
+</tr>
+<tr>
+    <td>wednesday</td>
+    <td>19cy205</td>
+    <td>chemistry</td>
+    <td>1.00-3.00</td>
+ 
+</table>
+
+</body>
+
+```````
 # OUPUT
+![image](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-03-Timetable/assets/145742839/4cb1be4e-fc5c-4401-9bed-0f3a011038bb)
+
